@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":105,"indent":0,"parameters":[2,false]},{"code":405,"indent":0,"parameters":["Sep.1,1995 Montreal"]},{"code":405,"indent":0,"parameters":[""]},{"code":405,"indent":0,"parameters":["Oct.11,1995 Venice"]},{"code":405,"indent":0,"parameters":[""]},{"code":405,"indent":0,"parameters":["Nov.6,1995 Los"]},{"code":0,"indent":0,"parameters":[]}],"name":"メモ","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":231,"indent":0,"parameters":[1,"8",1,0,404,313,75,75,255,0]},{"code":105,"indent":0,"parameters":[2,false]},{"code":405,"indent":0,"parameters":["館内MAP"]},{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"name":"MAP","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":231,"indent":0,"parameters":[1,"Map004",0,0,101,13,50,50,255,0]},{"code":105,"indent":0,"parameters":[2,false]},{"code":405,"indent":0,"parameters":["中庭～バオバブ～"]},{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"name":"バオバブ","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
